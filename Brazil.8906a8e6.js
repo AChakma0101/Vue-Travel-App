@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as a,a as c}from"./index.f1b16f2f.js";const o={},t={class:"brazil"},r=c("h1",null,"Brazil",-1),_=[r];function n(i,l){return s(),a("div",t,_)}var f=e(o,[["render",n]]);export{f as default};
